@@ -9,7 +9,7 @@ Example
     y = x+5;
     a = ((x*6)+5);
 
-  translated LISP code
+  Translated LISP code
   
     (x 10)
     (y (+ x 5))
